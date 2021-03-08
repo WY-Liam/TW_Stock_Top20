@@ -1,2 +1,4 @@
 # TW_Stock_Top20
-Taiwan Stock Exchange Top20 Trading Volume 
+Taiwan Stock Exchange Top20 Trading Volumes
+
+### Getting the top20 trading volume of Taiwan Stock Exchange
